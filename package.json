@@ -1,14 +1,15 @@
 {
-  "name": "bitcoin",
-  "description": "Communicate with bitcoind via JSON-RPC",
+  "name": "multichain",
+  "description": "Communicate with multichaind via JSON-RPC",
   "version": "3.0.1",
   "main": "lib/index.js",
   "keywords": [
     "bitcoin",
     "rpc"
   ],
-  "author": "Bill Casarin <bill@casarin.ca> (jb55.com)",
+  "author": "Mark van Cuijk <github@mark.van-cuijk.nl>",
   "contributors": [
+    "Bill Casarin <bill@casarin.ca> (jb55.com)",
     "Sean Lavine <sean@eternalrise.com>"
   ],
   "dependencies": {},
@@ -30,9 +31,9 @@
     "test": "make test"
   },
   "bugs": {
-    "url": "https://github.com/freewil/node-bitcoin/issues"
+    "url": "https://github.com/phedny/node-multichain/issues"
   },
-  "homepage": "https://github.com/freewil/node-bitcoin#readme",
+  "homepage": "https://github.com/phedny/node-multichain#readme",
   "directories": {
     "test": "test"
   },
